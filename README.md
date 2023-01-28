@@ -1,3 +1,3 @@
-# casually-explained-coding
-if i change this will this change the description on my pins
-if it does i will cry profusely
+# what if i told you that you could have coding tutorial taught to you BUT JUST BADLY ENOUGH that it makes sense?
+## too damn bad i've already made them stop complaining about it
+### god
