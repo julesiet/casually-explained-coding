@@ -1,2 +1,3 @@
 # casually-explained-coding
-terrible coding tutorials at your disposal :)
+if i change this will this change the description on my pins
+if it does i will cry profusely
