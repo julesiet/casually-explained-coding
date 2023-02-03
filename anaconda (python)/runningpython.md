@@ -33,7 +33,7 @@ Use `nano` command in command line to inspect/write code to a file:
 |        ATOM        | Customizable interface, beginner friendly and has the ability to pair alongside Github, __*but*__ takes an oddly long time to open, is shutting down in further development soon, and must be run in seperate terminal (need to fact check) |
 |    SUBLIME TEXT    |                                                  Customizable interface, "minimalistic" (subjective), __*but*__ must be run in seperate terminal and storing files in folders is weird ...                                                  | 
 
-Write your first python programming using the `console.log` keyword, which will print any message put in single/double quotations:
+Write your first python program using the `console.log` keyword, which will print any message put in single/double quotations:
 ``` python
 # FIRST PYTHON PROGRAM WOOOOO !!!
 print('Hello World!')
