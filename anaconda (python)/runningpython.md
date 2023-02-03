@@ -39,7 +39,7 @@ Write your first python program using the `console.log` keyword, which will prin
 print('Hello World!')
 # also comments are left with the '#' keyword :)
 ```
-Run python in the command line by using `python3` (`python2` / `python` if you want to use a deprecated version of python): 
+Run python in the command line by using `python3` followed by the filename (`python2` / `python` if you want to use a deprecated version of python): 
 ``` bash
 # THIS WORKS UNIVERSALLY!! (i just use macOS because it's my most common machine :))
 ~ % python3 hello.py # runs python3 (SEVERELY RECOMMENDED)
