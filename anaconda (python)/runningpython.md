@@ -37,6 +37,7 @@ Write your first python program using the `console.log` keyword, which will prin
 ``` python
 # FIRST PYTHON PROGRAM WOOOOO !!!
 print('Hello World!')
+# also comments are left with the '#' keyword :)
 ```
 Run python in the command line by using `python3` (`python2` / `python` if you want to use a deprecated version of python): 
 ``` bash
