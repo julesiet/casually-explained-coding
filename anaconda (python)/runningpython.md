@@ -20,7 +20,10 @@ C:\Users\username>type nul > hello.py
 ```
 Use `nano` command in command line to inspect/write code to a file:
 ``` bash
+# THIS WORKS UNIVERSALLY!! (i just use macOS because it's my most common machine :))
+~ % nano hello.py
 ```
+... which will hopefully open something like:
 Run python in the command line by using `python3`(`python2` / `python` if you want to use a deprecated version of python): 
 ``` bash
 # THIS WORKS UNIVERSALLY!! (i just use macOS because it's my most common machine :))
