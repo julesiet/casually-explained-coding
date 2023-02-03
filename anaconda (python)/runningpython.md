@@ -1,8 +1,9 @@
 ## RUNNING PYTHON IN THE TERMINAL (+ YOUR FIRST PROGRAM)
 I think python is actually an extremely easy language to compile and run, in comparison to languages like `javascript` or *ANY* form of `C` code. But if you haven't figured it out yet ... :O 
 
-Python is available in the terminal in virtually every single computer ~~that you can run League of Legends on~~, BUT if you don't have python or just want to check if you do, type:
+Python is available in the terminal in virtually every single computer ~~that you can run League of Legends on~~, **BUT** if you don't have python or just want to check if you do, type:
 ```bash
+# THIS WORKS UNIVERSALLY!! (i just use macOS because it's my most common machine :))
 python3 --version
 # ... to check for the most recent version of python, but you can still use: 
 python --version
@@ -14,7 +15,7 @@ Create a file that ends in `.py` which runs python script by either using the `t
 ``` bash
 ~ % touch hello.py
 ```
-OR `type nul > hello.txt` replacing the `hello.txt` filename with one that ends in `.py`:
+**OR** `type nul > hello.txt` replacing the `hello.txt` filename with one that ends in `.py`:
 ``` c++
 C:\Users\username>type nul > hello.py
 ```
@@ -24,13 +25,32 @@ Use `nano` command in command line to inspect/write code to a file:
 ~ % nano hello.py
 ```
 ... which will hopefully open something like:
-<>: MAKE SURE TO PUT THE IMAGE THERE BECAUSE LAUSD SUCKS (also this is a comment please remember this)
-Run python in the command line by using `python3`(`python2` / `python` if you want to use a deprecated version of python): 
+<!-- MAKE SURE TO PUT THE IMAGE THERE BECAUSE LAUSD SUCKS (also this is a comment please remember this) -->
+**OR** use an IDE (integrated development environment) to edit code easier and more fluidly!
+|   POPULAR IDE(s)   |                                                                                                                FUNCTIONS                                                                                                                |
+|:------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| VISUAL STUDIO CODE |      Lots of extensions and one of the most world renowned code editor(s) with the ability to run code within VS code via its own terminal, __*but*__ not really beginner friendly and can be overwhelming to observe all the features.     |
+|        ATOM        | Customizable interface, beginner friendly and has the ability to pair alongside Github, __*but*__ takes an oddly long time to open, is shutting down in further development soon, and must be run in seperate terminal (need to fact check) |
+|    SUBLIME TEXT    |                                                  Customizable interface, "minimalistic" (subjective), __*but*__ must be run in seperate terminal and storing files in folders is weird ...                                                  | 
+
+Write your first python programming using the `console.log` keyword, which will print any message put in single/double quotations:
+``` python
+# FIRST PYTHON PROGRAM WOOOOO !!!
+print('Hello World!')
+```
+Run python in the command line by using `python3` (`python2` / `python` if you want to use a deprecated version of python): 
+``` bash
+# THIS WORKS UNIVERSALLY!! (i just use macOS because it's my most common machine :))
+~ % python3 hello.py # runs python3 (SEVERELY RECOMMENDED)
+~ % python2 hello.py # runs python2
+~ % python hello.py # ALSO runs python2 :)
+```
+And you should get...
 ``` bash
 # THIS WORKS UNIVERSALLY!! (i just use macOS because it's my most common machine :))
 ~ % python3 hello.py
-# OR
-~ % python2 hello.py
-# OR
-~ % python hello.py
+Hello World!
+~ %
 ```
+WOOOOOOO WE SAID HELLO TO THE WORLD!! 
+> and you wrote and executed your first python program!! good job kings and queens <3
