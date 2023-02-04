@@ -25,7 +25,7 @@ Use `nano` command in command line to inspect/write code to a file:
 ~ % nano hello.py
 ```
 ... which will hopefully open something like:
-<!-- MAKE SURE TO PUT THE IMAGE THERE BECAUSE LAUSD SUCKS (also this is a comment please remember this) -->
+![nano_in_terminal](https://github.com/julesiet/casually-explained-coding/blob/40d01d941081d5d7559bf3c128a73823b88e551f/anaconda%20(python)/nano.png)
 **OR** use an IDE (integrated development environment) to edit code easier and more fluidly!
 |   POPULAR IDE(s)   |                                                                                                                FUNCTIONS                                                                                                                |
 |:------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
