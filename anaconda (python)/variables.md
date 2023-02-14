@@ -47,7 +47,8 @@ myListList = [['this is'], ['a list'], ['within a list']] # lists within lists!!
 allTypes = ['string', 69, ['list type']] # look at these types!!
 ```
 #### DICTIONARIES
-> i don't think there's another name for dictionary in python O__O
+> i don't think there's another name for dictionary in python O__O 
+
 Dictionaries have the ability to store types of variables in a variable, BUT they can also be stored with a key!!
 ``` python
 # format of dictionary listing is "key: object"
