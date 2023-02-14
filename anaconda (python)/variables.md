@@ -46,10 +46,29 @@ myNumList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] # integers in one list :)
 myListList = [['this is'], ['a list'], ['within a list']] # lists within lists!!
 allTypes = ['string', 69, ['list type']] # look at these types!!
 ```
+Reference **list** elements / indexes with numbers starting from 0!
+``` python
+juniorRoboticks = ['Samantha', 'Jude', 'Jon', 'Kyra', 'Jose', 'Sila', 'Brian']
+print(juniorRobotics[0])
+# expected output: 'Samantha'
+print(juniorRobotics[4])
+# expected output: 'Jose'
+print(juniorRobotics[5-3]) # you can even apply math to indexes!
+# expected output: 'Jon'
+print(juniorRobotics[7])
+# expected output: ERROR // index is out of list length >:(
+```
+BONUS: You can also find length of lists by using the `len` function.. shhhhh.. no one's supposed to know ;)
+``` python 
+print(len(juniorRoboticks))
+# expected output: 7
+
+# tell me what you can do with len(juniorRoboticks) - 1 >:)
+```
 #### DICTIONARIES
 > i don't think there's another name for dictionary in python O__O 
 
-Dictionaries have the ability to store types of variables in a variable, BUT they can also be stored with a key!!
+Dictionaries have the ability to store types of variables in a variable, BUT they can also be stored with an object!!
 ``` python
 # format of dictionary listing is "key: object"
 myDictionary = {
@@ -58,3 +77,20 @@ myDictionary = {
   'list': ['this', 'is', 'a', 'list']
   }
 ```
+Reference **dictionary** objects with the key they're stored with!
+``` python
+print(myDictionary['string']) 
+# expected output: 'hello world!'
+print(myDictionary['list'])
+# expected output: ['this', 'is', 'a', 'list']
+```
+(You can also print the keys the objects are stored with the `.keys()` keyword :D) 
+``` python
+print(myDictionary.keys())
+# expected output: dict_keys(['string', 'integer', 'list'])
+```
+The main takeaway from this lesson is that:
+- absolutely NO one cares about boolean values <3 (although understanding what `null` is would be good for jason's hideout)
+- AND THAT YOU FIGURED OUT VARIABLE TYPES AGAIN!! WOOOOOOO :)
+# PYTHON BABYYYYYY >:D
+
