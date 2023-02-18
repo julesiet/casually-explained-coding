@@ -89,7 +89,7 @@ print(myDictionary['list'])
 print(myDictionary.keys())
 # expected output: dict_keys(['string', 'integer', 'list'])
 ```
-The main takeaway from this lesson is that:
+Feel free to reference this document if you need a refresh :) !!! (AND ALSOOOO!!)
 - absolutely NO one cares about boolean values <3 (although understanding what `null` is would be good for jason's hideout)
 - AND THAT YOU FIGURED OUT VARIABLE TYPES AGAIN!! WOOOOOOO :)
 # PYTHON BABYYYYYY >:D
