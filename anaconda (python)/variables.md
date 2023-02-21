@@ -21,7 +21,8 @@ myString = 'i\'m a string!' # using a backslash
 
 # I DON'T KNOW WHY THE DOUBLE QUOTATIONS DON'T WORK BUT IT DOES I PROMISE :')
 ```
-### INTEGERS
+### NUMERICAL VALUES
+#### INTEGER
 Integer values are any **whole** number, which is an important distinction to make as there tends to be type differences with *float* values:
 ``` python
 myInt = 6 # single digit number!
