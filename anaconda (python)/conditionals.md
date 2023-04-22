@@ -3,6 +3,7 @@ The purpose of a conditional, or alternatively **if-statements**, is to check fo
 ``` python
 x = 10
 y = 5
+
 if y < x:
   print('y is less than x!')
 # expected output: y is less than x!
@@ -11,6 +12,7 @@ If-statements typically return nothing as true, which can be useful! However, pr
 ``` python
 x = 5
 y = 10
+
 if y < x:
    print('y is less than x!')
 else:
@@ -22,6 +24,7 @@ Multiple if-statements can be chained to check for multiple conditions, but in m
 ``` python
 x = 5
 y = 5
+
 if y < x:
    print('y is less than x!')
 elif x == 5:
