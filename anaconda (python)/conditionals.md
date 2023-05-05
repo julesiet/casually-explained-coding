@@ -1,4 +1,4 @@
-## CONDITIONALS
+# CONDITIONALS
 The purpose of a conditional, or alternatively **if-statements**, is to check for a *condition* and to execute code if that condition returns *true.*
 ``` python
 x = 10
