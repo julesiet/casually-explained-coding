@@ -1,4 +1,4 @@
-## RUNNING PYTHON IN THE TERMINAL (+ YOUR FIRST PROGRAM)
+# RUNNING PYTHON IN THE TERMINAL (+ YOUR FIRST PROGRAM)
 I think python is actually an extremely easy language to compile and run, in comparison to languages like `javascript` or *ANY* form of `C` code. But if you haven't figured it out yet ... :O 
 
 Python is available in the terminal in virtually every single computer ~~that you can run League of Legends on~~, **BUT** if you don't have python or just want to check if you do, type:
