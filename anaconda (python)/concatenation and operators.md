@@ -1,5 +1,6 @@
 ## CONCATENATION AND OPERATORS
-As a quick refresher, **concatenation**, or more specifically string concatenation, is the process of combining two strings together and ~~mutilate their organs and disembowel their bodies and take them apart atom by atom to~~ create an entirely new string! Concatenation is pretty common across languages; in python, we accomplish this by:
+As a quick refresher, **concatenation**, or more specifically string concatenation, is the process of combining two strings together and ~~mutilate their organs and disembowel their bodies and take them apart atom by atom to~~ create an entirely new string! 
+Concatenation is pretty common across languages; in python, we accomplish this by:
 ``` python
 firstHalf = 'hel'
 secondHalf = 'lo!'
