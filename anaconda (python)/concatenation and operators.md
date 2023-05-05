@@ -22,7 +22,7 @@ myWord = 'ball'
 newWord = myNum + myWord
 # expected input: '8ball'
 ```
-Concatenation can be useful in many scenarios, like in the case where you need to repeat the addition of a string to an end of a word. Here's an example of a program that transforms a word, phrase or sentence with the use of... **concatenation!!**
+Concatenation can be useful in many scenarios, like in the case where you need to repeat the addition of a string to an end of a word. Here's an example of a program that transforms a word, phrase or sentence with the use of... *__concatenation!!__*
 ``` python
 # don't worry if you don't know what a loop is! it's touched on later in the tutorials :)
 sentence = input('Give me a sentence! (in all caps): ')
