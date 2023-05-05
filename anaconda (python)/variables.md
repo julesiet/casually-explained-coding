@@ -1,4 +1,4 @@
-## VARIABLES
+# VARIABLES
 Unlike many aspects in programming languages, variable types are virtually the same across the board in Python.
 > The names are just different sometimes D:<
 
