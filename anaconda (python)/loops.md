@@ -21,5 +21,5 @@ while i < 5:
    i += 1 
 # ^^ note: we must increment i by 1 to make sure this loop doesn't run infinitely :)
 ```
-NOTE: `i` still represents the counting variable, but we intialize `i` prior to the loop because in contrast to the `for` loop, it is not initialized within the loop itself.
+NOTE: `i` still represents the counting variable, but we initialize `i` prior to the loop because in contrast to the `for` loop, it is not initialized within the loop itself.
 > ~~loop deez nuts into yo mouf~~
